@@ -1,0 +1,54 @@
+<span id="a">kian@raspberrypi</span>:<span id="b">~</span><span id="c">$</span> cd KianRanjbar/<!-- laglaglaglaglaglag -->About_Kian
+<span id="a">kian@raspberrypi</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->kianranjbar.txt<br/><br/>
+Hello World! My name is Kian Ranjbar.
+Welcome to my simple Linux inspired website! 
+
+<img src="coding.jpg" style="width:30%; height:150px; margin:1%;" alt="programming"><img src="fighting.jpg" style="width:30%; height:160px; margin:1%;" alt="Mixed Martial Arts"><img src="chess.jpg" style="width:30%; height:150px; margin:1%;" alt="Checkmate"><br/>
+<hr>
+<u>What I've been up to, as of {5/30/2025}:</u>
+Lately, I’ve been focused on training, completing courses, and earning certifications—currently concentrating on the CCNA (Cisco Certified Network Associate)—while also working on passion projects, such as developing a 3D platformer video game using Unity and C++.
+
+<hr>
+<u>About Me:</u>
+Born and raised in Colorado Springs, I’ve worked all kinds of jobs—from construction and manual labor to sales, and I spent several years in the restaurant industry holding various positions. One of the toughest jobs I had was being the only dishwasher in a busy restaurant, working 12-hour shifts.
+I also grew up playing basketball, which taught me the importance of teamwork. You have to understand your role and play it well—and that role depends on who’s on your team. When you’re the best, you take on a leadership role and help others succeed. When you’re not, you stay coachable, know your responsibilities, and make sure the job gets done right.
+
+Outside of the world of tech, I like to spend my free time with my family, practice mixed martial arts, stay physically active, play chess, and read.
+
+One of my favorite quotes, "<span id="k">Live Free, Die Well</span>". <!-- sjkfhskjf -->
+
+
+<hr>
+<u>My Journey with Linux:</u>
+This website is a testament to my love for Linux, which blossomed during my undergraduate studies at the University of Colorado Denver, where I earned my Bachelor's degree in Computer Science. 
+
+I was first introduced to Linux and programming as a freshman in a robotics class, where my team and I collaboratively coded Arduino and Raspberry Pi systems to control a car-like robot. Over the course of my studies, I had the opportunity to utilize Linux in various ways—developing web applications with both the LAMP stack (Linux, Apache, MySQL, PHP) and the MERN stack (MongoDB, Express.js, React, Node.js)—while adding new tools to my arsenal like Git. 
+
+I've worked with a variety of Linux distributions using VMware, which gave me hands-on experience across different systems. I came to appreciate Raspberry Pi OS for its simplicity and ease of use, while also developing an affinity for Kali Linux due to its powerful networking tools (Wireshark, Nmap), cybersecurity utilities (Nessus), and anonymity features (Tor, proxychains).
+
+After compiling and running countless C++ files while building a local computer network, I came to the conclusion that C++ is my favorite programming language. I found it easier to use compared to Python, especially when it came to object-oriented programming.
+
+I love cybersecurity, computer networks, programming in C++ and Python, Linux (of course), and all things tech.
+
+<hr>
+I’m extremely eager to begin my career, gain hands-on experience, learn from seasoned professionals, so I can become a competent, reliable expert myself <s>one day</s>... day one
+
+
+
+
+
+📎 <a href="link1">GitHub</a>
+🖥️ <a href="https://discord.gg/gk8PQAbB" target="_blank">Discord</a>
+🌐 <a href="link2">Blog</a>  [Coming Soon]
+🎥 <a href="https://www.youtube.com/watch?v=lRHnzx42VrY&ab_channel=ColoradoDreams" target="_blank">YouTube</a> 
+📄 <a href="KiansResume.pdf">Resume</a>
+
+
+If you would like to get in touch with me<!-- slightdelayhere-->, feel free to send me an email at <!-- longlonglongcomment --><a href="mailto:keyonranjbar@aol.com">keyonranjbar@aol.com</a> 📧 
+
+
+<img src="fnf.jpg" style="width:30%; height:157px; margin:1%;" alt="Fast and Furious"><img src="WW.jpg" style="width:30%; height:157px; margin:1%;" alt="Walter White"><img src="bond.jpg" style="width:30%; height:157px; margin:1%;" alt="James Bond"><br/>
+
+<p>Cheers!</p>
+
+<span id="a">kian@raspberrypi</span>:<span id="b">~</span><span id="c">$</span> exit
