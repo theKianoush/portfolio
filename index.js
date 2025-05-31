@@ -62,7 +62,14 @@ var Typer = {
         Typer.index = Typer.lines.length;
       }
 
-      var text = Typer.lines.slice(0, Typer.index).join("<br/>");
+      var linesToShow = Typer.lines.slice(0, Typer.index);
+      var text = linesToShow.join("<br/>");
+
+      // Trim trailing line breaks if last line is empty
+      if (linesToShow.length && linesToShow[linesToShow.length - 1].trim() === "") {
+        text = linesToShow.slice(0, -1).join("<br/>");
+      }
+
       $("#console").html(text);
 
       // Scroll automatically only if autoScroll is true
