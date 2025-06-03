@@ -5,7 +5,7 @@ Welcome to my simple Linux inspired website!
 
 <img src="coding.jpg" style="width:30%; height:150px; margin:1%;" alt="programming"><img src="fighting.jpg" style="width:30%; height:160px; margin:1%;" alt="Mixed Martial Arts"><img src="chess.jpg" style="width:30%; height:150px; margin:1%;" alt="Checkmate"><br/>
 <hr>
-<u>What I've been up to, as of {5/30/2025}:</u>
+<u>What I've been up to, as of {6/3/2025}:</u>
 Currently training with Coursera, completing courses in preparation for the CCNA (Cisco Certified Network Associate) certification. Also working on passion projects, including developing a 3D platformer video game using Unity and C++, and building a personal blog to share with family and friends.
 
 <hr>
