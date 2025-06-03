@@ -6,16 +6,17 @@ Welcome to my simple Linux inspired website!
 <img src="coding.jpg" style="width:30%; height:150px; margin:1%;" alt="programming"><img src="fighting.jpg" style="width:30%; height:160px; margin:1%;" alt="Mixed Martial Arts"><img src="chess.jpg" style="width:30%; height:150px; margin:1%;" alt="Checkmate"><br/>
 <hr>
 <u>What I've been up to, as of {5/30/2025}:</u>
-Lately, I’ve been focused on training, completing courses, and earning certifications—currently concentrating on the CCNA (Cisco Certified Network Associate)—while also working on passion projects, such as developing a 3D platformer video game using Unity and C++.
+Currently training with Coursera, completing courses in preparation for the CCNA (Cisco Certified Network Associate) certification. Also working on passion projects, including developing a 3D platformer video game using Unity and C++, and building a personal blog to share with family and friends.
 
 <hr>
 <u>About Me:</u>
-Born and raised in Colorado Springs, I’ve worked all kinds of jobs—from construction and manual labor to sales, and I spent several years in the restaurant industry holding various positions. One of the toughest jobs I had was being the only dishwasher in a busy restaurant, working 12-hour shifts.
-I also grew up playing basketball, which taught me the importance of teamwork. You have to understand your role and play it well—and that role depends on who’s on your team. When you’re the best, you take on a leadership role and help others succeed. When you’re not, you stay coachable, know your responsibilities, and make sure the job gets done right.
+Born and raised in Colorado Springs to a family of engineers, I was immersed in technology from an early age and always felt destined to become a productive member of the tech industry. I love tech because it’s one of the rare fields where creativity, logic, and continuous learning intersect. There’s always something new to discover—and the best part is applying what you’ve learned in your own unique, creative way.
 
-Outside of the world of tech, I like to spend my free time with my family, practice mixed martial arts, stay physically active, play chess, and read.
+Outside of tech, my favorite hobbies are mixed martial arts and chess. I’m drawn to both because they challenge you to overcome obstacles using a combination of training, and creativity—just like programming. Bruce Lee once described martial arts as “honestly expressing yourself,” and that’s exactly how I feel when I’m coding or playing chess. Whether it’s building an application, strategizing in a match, or sparring in the gym, I see each of these as a way to express who I am through action and precision.
 
-One of my favorite quotes, "<span id="k">Live Free, Die Well</span>". <!-- sjkfhskjf -->
+I also grew up playing basketball, where I gained values that still guide me today. I learned the importance of being a dependable teammate—starting with being punctual, showing up 15 minutes early, and always bringing a positive attitude. Over time, by encouraging others and consistently showing up with energy and effort, I earned my team’s trust. I also discovered the value of hard work. As the seasons went by, I found myself improving faster than players who had been in the game longer—simply because I was putting in more effort. Every coach says, “Hard work beats talent when talent doesn’t work hard,” and I’ve seen that proven true. My last name, Ranjbar, translates to "hard worker," and I do my best to live up to that name every day.
+
+I’ve always believed that no matter how insurmountable something may seem, it can be overcome with persistence. Persistence is key, and perseverance is what separates winners from losers. "<span id="k">Never give up!</span>". <!-- sjkfhskjf -->
 
 
 <hr>
@@ -31,7 +32,7 @@ After compiling and running countless C++ files while building a local computer 
 I love cybersecurity, computer networks, programming in C++ and Python, Linux (of course), and all things tech.
 
 <hr>
-I’m extremely eager to begin my career, gain hands-on experience, learn from seasoned professionals, so I can become a competent, reliable expert myself <s>one day</s>... day one
+I’m eager to bring my passion, discipline, and work ethic into the tech industry—ready to learn, contribute, and make a meaningful impact from day one.
 
 
 
