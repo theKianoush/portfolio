@@ -18,7 +18,6 @@ I’ve always believed that no matter how insurmountable an obstacle may seem, i
 "<span id="k">Energy and persistence conquer all things!  $$$</span>". <!-- sjkfhskjf -->
 - Benjamin Franklin
 
-
 <hr>
 <u>My Journey with Linux:</u>
 This website is a testament to my love for Linux, which blossomed during my undergraduate studies at the University of Colorado Denver, where I earned my Bachelor's degree in Computer Science. 
@@ -30,7 +29,6 @@ I've worked with a variety of Linux distributions using VMware, which gave me ha
 After compiling and running countless C++ files while building a local computer network, I came to the conclusion that C++ is my favorite programming language. I found it easier to use compared to Python, especially when it came to object-oriented programming.
 
 <hr>
-
 I love tech, from the hardware of a computer, to the entire system of computer networks and how it operates. How an electrical pulse, this tiny signal can travel through complex computer networks all the way across the other side of the globe in almost an instant. The fact that we can pack and conceal information within electrical signals, the fact that when you break this information down on a base level it is nothing but a combination of 1s and 0s. 
 
 
@@ -51,4 +49,5 @@ If you would like to get in touch with me<!-- slightdelayhere-->, feel free to s
 <p>Cheers!</p>
 
 <span id="a">kian@raspberrypi</span>:<span id="b">~</span><span id="c">$</span> exit
+
 
