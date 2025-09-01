@@ -15,7 +15,7 @@ On the side, I am pursuing certifications such as the AWS Certified Cloud Practi
 Born and raised in Colorado Springs to a family of engineers, I was immersed in technology from an early age and always felt destined to become a productive member of the tech industry. I love tech because it’s one of the rare fields where creativity, logic, and continuous learning intersect. There’s always something new to discover—and the best part is applying what you’ve learned in your own unique, creative way.
 
 I’ve always believed that no matter how insurmountable an obstacle may seem, it can be overcome with perseverance.
-"<span id="k">Energy and persistence conquer all things!  $$$</span>". <!-- sjkfhskjf -->
+"<span id="k">Energy and persistence conquer all things!  $$$</span>" <!-- sjkfhskjf -->
 - Benjamin Franklin
 
 <hr>
@@ -49,3 +49,4 @@ If you would like to get in touch with me<!-- slightdelayhere-->, feel free to s
 <p>Cheers!</p>
 
 <span id="a">kian@raspberrypi</span>:<span id="b">~</span><span id="c">$</span> exit
+
