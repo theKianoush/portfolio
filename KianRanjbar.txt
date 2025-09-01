@@ -5,16 +5,18 @@ Welcome to my simple Linux inspired website!
 
 <img src="coding.jpg" style="width:30%; height:150px; margin:1%;" alt="programming"><img src="fighting.jpg" style="width:30%; height:160px; margin:1%;" alt="Mixed Martial Arts"><img src="chess.jpg" style="width:30%; height:150px; margin:1%;" alt="Checkmate"><br/>
 <hr>
-<u>What I've been up to, as of {6/3/2025}:</u>
-Currently training with Coursera, completing courses in preparation for the CCNA (Cisco Certified Network Associate) certification. Also working on passion projects, including developing a 3D platformer video game using Unity and C++, and building a personal blog to share with family and friends.
+<u>What I've been up to, as of {09/01/2025}:</u>
+I am pursuing a Master’s degree in Data Science at the University of Colorado Boulder and actively seeking opportunities to build a career in the tech industry. Open to internships, research positions, and assistantships, I am eager to gain professional experience and take on stepping stones that will contribute to my long-term growth.
+
+On the side, I am pursuing certifications such as the AWS Certified Cloud Practitioner and working on projects, including developing a 3D platformer video game using Unity and C++.
 
 <hr>
 <u>About Me:</u>
 Born and raised in Colorado Springs to a family of engineers, I was immersed in technology from an early age and always felt destined to become a productive member of the tech industry. I love tech because it’s one of the rare fields where creativity, logic, and continuous learning intersect. There’s always something new to discover—and the best part is applying what you’ve learned in your own unique, creative way.
 
-Outside of tech, my favorite hobbies are mixed martial arts and chess. I’m drawn to both because they challenge you to overcome obstacles using a combination of training, and creativity—just like programming. Bruce Lee once described martial arts as “honestly expressing yourself,” and that’s exactly how I feel when I’m coding or playing chess. Whether it’s building an application, strategizing in a match, or sparring in the gym, I see each of these as a way to express who I am through action and precision.
-
-I’ve always believed that no matter how insurmountable something may seem, it can be overcome with persistence. Persistence is key, and perseverance is what separates winners from losers. "<span id="k">Never give up!</span>". <!-- sjkfhskjf -->
+I’ve always believed that no matter how insurmountable an obstacle may seem, it can be overcome with perseverance.
+"<span id="k">Energy and persistence conquer all things!  $$$</span>". <!-- sjkfhskjf -->
+- Benjamin Franklin
 
 
 <hr>
@@ -27,15 +29,13 @@ I've worked with a variety of Linux distributions using VMware, which gave me ha
 
 After compiling and running countless C++ files while building a local computer network, I came to the conclusion that C++ is my favorite programming language. I found it easier to use compared to Python, especially when it came to object-oriented programming.
 
-I love cybersecurity, computer networks, programming in C++ and Python, Linux (of course), and all things tech.
-
 <hr>
-I’m eager to bring my passion, discipline, and work ethic into the tech industry—ready to learn, contribute, and make a meaningful impact from day one.
+
+I love tech, from the hardware of a computer, to the entire system of computer networks and how it operates. How an electrical pulse, this tiny signal can travel through complex computer networks all the way across the other side of the globe in almost an instant. The fact that we can pack and conceal information within electrical signals, the fact that when you break this information down on a base level it is nothing but a combination of 1s and 0s. 
 
 
 
-
-
+💁 <a href="linkedin.com" target="_blank">LinkedIn</a>
 📎 <a href="https://github.com/theKianoush" target="_blank">GitHub</a>
 🖥️ <a href="https://discord.gg/gk8PQAbB" target="_blank">Discord</a>
 🌐 <a href="link2">Blog</a>  [Coming Soon]
@@ -51,3 +51,4 @@ If you would like to get in touch with me<!-- slightdelayhere-->, feel free to s
 <p>Cheers!</p>
 
 <span id="a">kian@raspberrypi</span>:<span id="b">~</span><span id="c">$</span> exit
+
