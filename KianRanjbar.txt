@@ -7,17 +7,18 @@ Welcome to my simple Linux inspired website!
 <hr>
 <u>What I've been up to, as of {10/09/2025}:</u>
 Ive been up to a lot as of late, I am actively:
-- pursuing a Master’s degree in Data Science at the University of Colorado Boulder.
-- In a Web Development fellowship with Dream Tank
-- In a data analysis internship with Extern - “Outamation Advanced AI-Powered Document Insights and Data Extraction”
-- Studying for certifications, developing projects on the side, like a blog, and a 3D platformer video game using Unity and C++
+- pursuing a Master’s degree in Data Science @ the University of Colorado Boulder.
+- In a Web Development fellowship @ Dream Tank
+- In a data analysis internship @ Extern - “Outamation Advanced AI-Powered Document Insights and Data Extraction”
+- Studying for certifications
+- Developing a blog
 - Applying for jobs, looking to land a technical position to utilize my skills
 
 <hr>
 <u>About Me:</u>
 Dedicated and determined to break into the tech industry. I am excited to learn from professionals, build experience and connections, and apply the skills I’ve worked hard to develop, while making money doing what I love. I aim to exemplify exceptionalism and professionalism, through my punctuality, work ethic, and resolutely positive demeanor. 
 
-I have heard it all - the economy is in a recession, the job market is brutal, unemployment is at an all time high, AI is replacing jobs in your industry, what do they need you for? And my answer is, I have something a computer doesn’t, a heart. It drives me to <span id="k">Never Give Up</span>, <!-- sjkfhskjf -->, I won’t stop until I am a successful professional despite any adversities.
+I have heard it all - the economy is in a recession, the job market is brutal, unemployment is at an all time high, AI is replacing jobs in your industry, what do they need you for? And my answer is, I have something a computer doesn’t, a heart. It drives me to <span id="k">Never Give Up</span>, <!-- sjkfhskjf -->I won’t stop until I am a successful professional despite any adversities.
 
 <hr>
 <u>My Journey with Linux:</u>
@@ -31,6 +32,8 @@ After compiling and running countless C++ files while building a local computer 
 
 <hr>
 Follow me:
+
+
 
 
 
@@ -50,4 +53,3 @@ If you would like to get in touch with me<!-- slightdelayhere-->, feel free to s
 <p>Cheers!</p>
 
 <span id="a">kian@raspberrypi</span>:<span id="b">~</span><span id="c">$</span> exit
-
