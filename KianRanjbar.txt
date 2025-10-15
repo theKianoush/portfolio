@@ -5,7 +5,7 @@ Welcome to my simple Linux inspired website!
 
 <img src="coding.jpg" style="width:30%; height:150px; margin:1%;" alt="programming"><img src="fighting.jpg" style="width:30%; height:160px; margin:1%;" alt="Mixed Martial Arts"><img src="chess.jpg" style="width:30%; height:150px; margin:1%;" alt="Checkmate"><br/>
 <hr>
-<u>What I've been up to, as of {10/09/2025}:</u>
+<u>What I've been up to, as of {10/24/2025}:</u>
 Ive been up to a lot as of late, I am actively:
 - Pursuing a Master’s degree in Data Science @ the University of Colorado Boulder
 - In a Web Development fellowship @ Dream Tank
