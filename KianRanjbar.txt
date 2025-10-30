@@ -5,13 +5,13 @@ Welcome to my simple Linux inspired website!
 
 <img src="coding.jpg" style="width:30%; height:150px; margin:1%;" alt="programming"><img src="fighting.jpg" style="width:30%; height:160px; margin:1%;" alt="Mixed Martial Arts"><img src="chess.jpg" style="width:30%; height:150px; margin:1%;" alt="Checkmate"><br/>
 <hr>
-<u>What I've been up to, as of {10/24/2025}:</u>
+<u>What I've been up to, as of {11/11/2025}:</u>
 Ive been up to a lot as of late, I am actively:
 - Pursuing a Master’s degree in Data Science @ the University of Colorado Boulder
 - In a Web Development fellowship @ Dream Tank
-- In a Data Analysis internship @ Extern - “Outamation Advanced AI-Powered Document Insights and Data Extraction”
-- Studying for certifications, like: CompTIA Linux+, and AWS Certified Cloud Practitioner 
-- Working on projects, like: Facial Expression-Controlled LCD Display that utilizes advanced Computer Vision with Arduino, as well as a technical blog to document my journey
+- In a Data Analysis externship @ Extern - “Outamation: Advanced AI-Powered Document Insights and Data Extraction”
+- Studying for certifications, like: CompTIA Data+, and CompTIA Cloud+ 
+- Working on projects, like: Where's Waldo? Computer Vision (object-detection) program, and a personal Ai knowledge assistant, where you can ask questions about yourself 
 - Applying for jobs, looking to land a technical position to utilize my skills
 
 <hr>
@@ -38,9 +38,9 @@ Follow me:
 
 
 💁 <a href="www.linkedin.com/in/kian-r-b79102383" target="_blank">LinkedIn</a>
+🌐 <a href="link2">Blog</a>  [Check it out!]
 📎 <a href="https://github.com/theKianoush" target="_blank">GitHub</a>
 🖥️ <a href="https://discord.gg/gk8PQAbB" target="_blank">Discord</a>
-🌐 <a href="link2">Blog</a>  [Coming Soon]
 🎥 <a href="https://www.youtube.com/watch?v=lRHnzx42VrY&ab_channel=ColoradoDreams" target="_blank">YouTube</a> 
 📄 <a href="KiansResume.pdf">Resume</a>
 
