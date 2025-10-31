@@ -10,7 +10,7 @@ Ive been up to a lot as of late, I am actively:
 - Pursuing a Master’s degree in Data Science @ the University of Colorado Boulder
 - In a Web Development fellowship @ Dream Tank
 - In a Data Analysis externship @ Extern - “Outamation: Advanced AI-Powered Document Insights and Data Extraction”
-- Studying for certifications, like: CompTIA Data+, and CompTIA Cloud+ 
+- Studying for certifications, like: CCNA (Cisco Certified Network Associate), and AWS Certified Cloud Practitioner
 - Working on projects, like: Where's Waldo? Computer Vision (object-detection) program, and a personal Ai knowledge assistant, where you can ask questions about yourself 
 - Applying for jobs, looking to land a technical position to utilize my skills
 
