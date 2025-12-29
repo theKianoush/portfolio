@@ -5,16 +5,7 @@ Welcome to my simple Linux inspired website!
 
 <img src="coding.jpg" style="width:30%; height:150px; margin:1%;" alt="programming"><img src="fighting.jpg" style="width:30%; height:160px; margin:1%;" alt="Mixed Martial Arts"><img src="chess.jpg" style="width:30%; height:150px; margin:1%;" alt="Checkmate"><br/>
 <hr>
-<u>What I've been up to, as of {11/11/2025}:</u>
-Ive been up to a lot as of late, I am actively:
-- Pursuing a Master’s degree in Data Science @ the University of Colorado Boulder
-- In a Web Development fellowship @ Dream Tank
-- In a Data Analysis externship @ Extern - “Outamation: Advanced AI-Powered Document Insights and Data Extraction”
-- Studying for certifications, like: CCNA (Cisco Certified Network Associate), and AWS Certified Cloud Practitioner
-- Working on projects, like: Where's Waldo? Computer Vision (object-detection) program, and a personal Ai knowledge assistant, where you can ask questions about yourself 
-- Applying for jobs, looking to land a technical position to utilize my skills
 
-<hr>
 <u>About Me:</u>
 Dedicated and determined to break into the tech industry. I am excited to learn from professionals, build experience and connections, and apply the skills I’ve worked hard to develop, while making money doing what I love. I aim to exemplify exceptionalism and professionalism, through my punctuality, work ethic, and resolutely positive demeanor. 
 
@@ -42,7 +33,7 @@ Follow me:
 📎 <a href="https://github.com/theKianoush" target="_blank">GitHub</a>
 🖥️ <a href="https://discord.gg/gk8PQAbB" target="_blank">Discord</a>
 🎥 <a href="https://www.youtube.com/watch?v=lRHnzx42VrY&ab_channel=ColoradoDreams" target="_blank">YouTube</a> 
-📄 <a href="KiansResume.pdf">Resume</a>
+#📄 <a href="KiansResume.pdf">Resume</a>
 
 
 If you would like to get in touch with me<!-- slightdelayhere-->, feel free to send me an email at <!-- longlonglongcomment --><a href="mailto:keyonranjbar@aol.com">keyonranjbar@aol.com</a> 📧 
