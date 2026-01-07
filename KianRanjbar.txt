@@ -6,9 +6,14 @@ Welcome to my simple Linux inspired website!
 <img src="coding.jpg" style="width:30%; height:150px; margin:1%;" alt="programming"><img src="fighting.jpg" style="width:30%; height:160px; margin:1%;" alt="Mixed Martial Arts"><img src="chess.jpg" style="width:30%; height:150px; margin:1%;" alt="Checkmate"><br/>
 <hr>
 <u>About Me:</u>
-Dedicated and determined to break into the tech industry. I am excited to learn from professionals, build experience and connections, and apply the skills I’ve worked hard to develop, while making money doing what I love. I aim to exemplify exceptionalism and professionalism, through my punctuality, work ethic, and resolutely positive demeanor. 
-
-I have heard it all - the economy is in a recession, the job market is brutal, unemployment is at an all time high, AI is replacing jobs in your industry, what do they need you for? And my answer is, I have something a computer doesn’t - a heart. It drives me to <span id="k">Never Give Up</span>, <!-- sjkfhskjf -->I won’t stop until I am a successful professional despite any momentous adversities.
+- Bachelor's degree in Computer Science from the University of Colorado Denver
+- Pursuing a Master's degree in Electrical Engineering
+- I want to apply my software skills to real world embedded systems
+- I want to expand my skills and learn, I have a deep interest in electronics and computers, from the software to the hardware level
+- Actively working on building an 8-bit computer on several breadboards
+- I love my Family, Martial Arts, and Computers
+- I am a hard worker, I <span id="k">Never Give Up</span>, <!-- sjkfhskjf -->and I remain resolutely positive no matter what
+- I want to be like my older brother, and my father - they both were successful electrical engineers who got paid doing what they love
 
 <hr>
 <u>My Journey with Linux:</u>
